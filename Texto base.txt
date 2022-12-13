@@ -8,3 +8,19 @@ Entregamos pelo Ifood e UberEats
 Pedidos no Uber Eats pelo botão "pedir refeição"
 Pedidos Via Ifood
 https://www.ifood.com.br/?UTM_Medium=share
+
+
+ Texto Base
+
+Adicionando o texto da página WEB a ser desenvolvida.
+
+
+Configurando o texto
+
+Marcação de conteúdos: Título e parágrafos divididos.
+
+
+
+Marcação de Texto
+
+Marcando conteúdos importantes e dando ênfase no texto.
