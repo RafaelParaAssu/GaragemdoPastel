@@ -2,6 +2,10 @@ body{
 	
 }
 
+.titulo-principal{
+	padding-left: 20px;
+}
+
 #garagem{
 	width: 100%;
 	height: 500px;
@@ -12,7 +16,7 @@ body{
 	padding: 20px;
 }
 
-h1{
+.titulo-centralizado{
 	text-align: center;
 }
 
@@ -22,10 +26,6 @@ p{
 
 #Tam-fonte{
 	font-size: 22px;font-style: italic;font-style: 
-}
-
-h2{
-	text-align: center; color: white;font-size: 28px;
 }
 
 .sabores{
